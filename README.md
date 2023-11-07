@@ -40,7 +40,7 @@ converse(assistant_1_params, assistant_2_params, "global warming", 5)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/GPTvsGPT.git
+git clone https://github.com/yoheinakajima/GPTvsGPT.git
 cd GPTvsGPT
 ```
 
@@ -64,7 +64,7 @@ export OPENAI_API_KEY='your_api_key_here'
 Run the script with the following command:
 
 ```bash
-python GPTvsGPT.py
+python main.py
 ```
 
 You can customize the personalities and topics directly in the script or build upon the code to create a more interactive experience.
