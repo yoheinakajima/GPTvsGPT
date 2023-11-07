@@ -40,7 +40,7 @@ converse(assistant_1_params, assistant_2_params, "global warming", 5)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/GPTvsGPT.git
+git clone https://github.com/yoheinakajima/GPTvsGPT.git
 cd GPTvsGPT
 ```
 
